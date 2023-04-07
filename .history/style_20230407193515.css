@@ -1,0 +1,32 @@
+.my-elements{
+  display: flex;
+  
+  
+  flex-direction: column;
+}
+
+.second-part{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  justify-content: space-between;
+}
+
+.second-first-part{
+  display: flex;
+  flex-direction: column;
+}
+
+.second-first-part button{
+  width: 10em;
+}
+
+.second-second-part{
+  display: flex;
+  flex-direction: column;
+}
+
+.second-second-part button,input{
+  width: 10em;
+}

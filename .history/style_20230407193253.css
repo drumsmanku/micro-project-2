@@ -1,0 +1,22 @@
+.my-elements{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.second-part{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+}
+
+.second-first-part{
+  display: flex;
+  flex-direction: column;
+}
+
+.second-first-part button{
+  width: 6em;
+}

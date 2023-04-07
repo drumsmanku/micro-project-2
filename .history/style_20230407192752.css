@@ -1,0 +1,17 @@
+.my-elements{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.second-part{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.second-first-part{
+  display: flex;
+}

@@ -1,0 +1,45 @@
+.my-elements{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.my-elements h1{
+  font-size: 10rem;
+}
+
+.second-part{
+  display: flex;
+  
+  flex-wrap: wrap;
+  margin-top: 4rem;
+  justify-content: space-between;
+}
+
+.second-first-part{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20rem;
+  
+}
+
+.second-first-part button{
+  width: 10em;
+  margin: 0.5rem;
+}
+
+.second-second-part{
+  display: flex;
+  flex-direction: column;
+  margin-right: 20rem;
+  align-items: center;
+}
+
+.second-second-part button{
+  width: 10em;
+  margin: 0.5rem;
+}
+..second-second-part input{
+  width: 1.5rem;
+  margin-bottom: 0.5rem;
+}
